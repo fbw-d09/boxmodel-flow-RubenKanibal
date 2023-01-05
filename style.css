@@ -1,3 +1,35 @@
+h1
+{
+  margin-left: 35px;
+}
+
 .esports-info {
   display: inline-block;
+  height: 500px;
+  width: 400px;
+  border: 2px black solid;
+  overflow: auto;
+}
+
+section img
+{
+  width: 400px;
+}
+
+#div-one
+{
+  display: flex;
+  justify-content: space-around;
+}
+
+.esports-tournaments
+{
+  margin: 35px;
+}
+
+.esports-tournaments img
+{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
